@@ -28,6 +28,7 @@ export const BL = require('./BL.png');
 export const BM = require('./BM.png');
 export const BN = require('./BN.png');
 export const BO = require('./BO.png');
+export const BQ = require('./BQ.png');
 export const BR = require('./BR.png');
 export const BS = require('./BS.png');
 export const BT = require('./BT.png');
